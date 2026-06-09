@@ -22,7 +22,7 @@ A simple and responsive Todo application built with React and Tailwind CSS.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/ArAn-ZeRo/TODO_LIST
 ```
 
 2. Navigate to the project directory:
